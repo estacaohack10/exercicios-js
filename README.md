@@ -1,1 +1,1 @@
-[Exercícios de Javascript puro (sem manipulação de DOM)] (../blob/master/javascript-puro.md)
+  [Exercícios de Javascript puro (sem manipulação de DOM)] (./javascript-puro)
