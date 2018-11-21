@@ -1,0 +1,1 @@
+[Exercícios de Javascript puro (sem manipulação de DOM)] (../blob/master/javascript-puro.md)
